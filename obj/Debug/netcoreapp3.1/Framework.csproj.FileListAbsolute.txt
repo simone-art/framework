@@ -1,0 +1,4 @@
+C:\Users\USER\Desktop\Csharp\Framework\Framework\bin\Debug\netcoreapp3.1\Framework.exe
+C:\Users\USER\Desktop\Csharp\Framework\Framework\obj\Debug\netcoreapp3.1\Framework.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Csharp\Framework\Framework\obj\Debug\netcoreapp3.1\Framework.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Csharp\Framework\Framework\obj\Debug\netcoreapp3.1\Framework.AssemblyInfo.cs
